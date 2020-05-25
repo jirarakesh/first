@@ -3,6 +3,11 @@ echo "hello world"
 
 echo "helo"
 
+<<<<<<< HEAD
 Hello 
 helll
 lll
+=======
+echo "jellp"
+echo "rakesh"
+>>>>>>> beta
